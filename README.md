@@ -127,13 +127,6 @@ hospital_websocket/
    - Patient Referrals
    - Administrative Functions
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Create a new Pull Request
 
 ## License
 
@@ -141,4 +134,4 @@ This project is proprietary software.
 
 ## Contact
 
-For any inquiries regarding this project, please contact the development team.
+For any inquiries regarding this project, please contact.
