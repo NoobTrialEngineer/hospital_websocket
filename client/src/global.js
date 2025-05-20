@@ -1,0 +1,1 @@
+export const BASE_URL = 'ws://localhost:666/websocket';
